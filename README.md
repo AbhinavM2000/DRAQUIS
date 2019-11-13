@@ -12,7 +12,7 @@ The individual devices will be all weather proof and will have 2 days of battery
 
 ## Design
 
-![Design](https://imgur.com/qxZSrmR)
+![Design](https://i.imgur.com/qxZSrmR.png)
 
 ## More Info
 
