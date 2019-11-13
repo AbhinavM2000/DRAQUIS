@@ -16,6 +16,6 @@ The individual devices will be all weather proof and will have 2 days of battery
 
 ## More Info
 
-[![](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=lh0PZU6hlTk)
+* [![](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=lh0PZU6hlTk)
 
-KeySight IoT Innovation Challenge 2019 official entry : https://www.iotchallengekeysight.com/2019/entries/smart-land/41-0413-102730-draqis-distributed-real-time-air-quality-indexing-system
+* KeySight IoT Innovation Challenge 2019 official entry : https://www.iotchallengekeysight.com/2019/entries/smart-land/41-0413-102730-draqis-distributed-real-time-air-quality-indexing-system
